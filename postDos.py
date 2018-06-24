@@ -1,42 +1,24 @@
-import json, requests, csv, time, secrets
+import json, requests, csv, os, authenticate, runtime
+# since we're going to re-use the baseURL and headers variables, we'll import them here
+from authenticate import baseURL, headers
 
-startTime = time.time()
+# This is where we connect to ArchivesSpace.  See authenticate.py
+authenticate.test_connection()
 
-# import secrets
-baseURL = secrets.baseURL
-user = secrets.user
-password = secrets.password
-
-# test for successful connection
-def test_connection():
-	try:
-		requests.get(baseURL)
-		print 'Connected!'
-		return True
-
-	except requests.exceptions.ConnectionError:
-		print 'Connection error. Please confirm ArchivesSpace is running.  Trying again in 10 seconds.'
-
-is_connected = test_connection()
-
-while not is_connected:
-	time.sleep(10)
-	is_connected = test_connection()
-
-#authenticate
-auth = requests.post(baseURL + '/users/'+user+'/login?password='+password).json()
-session = auth["session"]
-headers = {'X-ArchivesSpace-Session':session, 'Content_Type':'application/json'}
-
-# User supplied variables
-do_csv = raw_input('Enter csv filename: ')
-
+# User supplied filename
+do_csv = input('Enter csv filename: ')
+base_file_name = os.path.splitext(do_csv)[0]
 # Open csv, create new csv
-csv_dict = csv.DictReader(open(do_csv))
-f=csv.writer(open('new_' + do_csv, 'wb'))
+csv_dict = csv.DictReader(open(do_csv, 'r', encoding='utf-8'))
+f=csv.writer(open(base_file_name + '.just_posted.csv', 'w'))
 f.writerow(['title']+['digital_object_id']+['digital_object_uri']+['archival_object_uri'])
 
-# Parse csv
+	# Note: if this script is re-run to create new digital objects or updated to include additional rows
+	# (e.g. after changing the do object IDs, or if you attempt to add another row that references a preceding archival object)
+	# then only the most-recently created digital objects will be linked
+	# and the previously-created digital objects will be orphaned records.
+
+# Parse csv and update ArchivesSpace.
 for row in csv_dict:
 	file_uri = row['fileuri']
 	title = row['title']
@@ -47,7 +29,7 @@ for row in csv_dict:
 	doRecord['file_versions'] = [{'file_uri': file_uri, 'publish': False, 'file_format_name': 'jpeg'}]
 	doRecord = json.dumps(doRecord)
 	doPost = requests.post(baseURL + '/repositories/2/digital_objects', headers=headers, data=doRecord).json()
-	print doPost
+	print(doPost)
 	# Store uri of newly posted digital objects because we'll need it
 	uri = doPost['uri']
 	# Find AOs based on refIDs supplied in csv
@@ -67,15 +49,9 @@ for row in csv_dict:
 	aoRecord['instances'] = instances_new
 	# Post updated archival objects
 	aoPost = requests.post(baseURL + linked_ao_uri, headers=headers, data=json.dumps(aoRecord)).json()
-	print aoPost
+	print(aoPost)
 	# Save select information to new csv file
 	f.writerow([title]+[digital_object_id]+[uri]+[linked_ao_uri])
 
 # Feedback to user
-print 'New .csv saved to working directory.  Go have a look!'
-
-# show script runtime
-elapsedTime = time.time() - startTime
-m, s = divmod(elapsedTime, 60)
-h, m = divmod(m, 60)
-print 'Post complete.  Total script run time: ', '%d:%02d:%02d' % (h, m, s)
+print ('New .csv saved to working directory.  Go have a look!')
