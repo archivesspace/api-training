@@ -1,6 +1,4 @@
 import json, requests, authenticate, runtime
-# since we're going to re-use the baseURL and headers variables, we'll import them here
-from authenticate import baseURL, headers
 
 # function to find key in nested dictionaries: see http://stackoverflow.com/questions/9807634/find-all-occurences-of-a-key-in-nested-python-dictionaries-and-lists
 # and now we're getting fancy!
@@ -18,7 +16,7 @@ def gen_dict_extract(key, var):
                         yield result
 
 # This is where we connect to ArchivesSpace.  See authenticate.py
-authenticate.test_connection()
+baseURL, headers = authenticate.login()
 
 # provide instructions
 print ('This script is used to link all top_containers in a single collection (identified by the ArchivesSpace resource ID number) to a single container_profile (identified by the ArchivesSpace container_profile ID number).')

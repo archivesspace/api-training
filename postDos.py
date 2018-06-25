@@ -1,9 +1,7 @@
 import json, requests, csv, os, authenticate, runtime
-# since we're going to re-use the baseURL and headers variables, we'll import them here
-from authenticate import baseURL, headers
 
 # This is where we connect to ArchivesSpace.  See authenticate.py
-authenticate.test_connection()
+baseURL, headers = authenticate.login()
 
 # User supplied filename
 do_csv = input('Enter csv filename: ')

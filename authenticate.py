@@ -1,27 +1,22 @@
-import requests, time, secrets
+import requests, json, secrets
+from requests.compat import urljoin, quote
 
-# import secrets
-baseURL = secrets.baseURL
-user = secrets.user
-password = secrets.password
+def login():
+	# import secrets
+	baseURL = secrets.baseURL
+	user = secrets.user
+	password = secrets.password
 
-#authenticate
-auth = requests.post(baseURL + '/users/'+user+'/login?password='+password).json()
-session = auth["session"]
-headers = {'X-ArchivesSpace-Session':session, 'Content_Type':'application/json'}
+	# attempt to authenticate
+	# following the approach used in ArchivesSnake
+	response = requests.post(urljoin(baseURL, '/users/{user}/login'.format(user=quote(user))),
+		params={"password": password, "expiring": False})
 
-# test for successful connection
-def test_connection():
-	try:
-		requests.get(baseURL)
-		print ('Connected!')
-		return True
-
-	except requests.exceptions.ConnectionError:
-		print ('Connection error. Please confirm ArchivesSpace is running.  Trying again in 10 seconds.')
-
-is_connected = test_connection()
-
-while not is_connected:
-	time.sleep(10)
-	is_connected = test_connection()
+	if response.status_code != 200:
+		print('Login failed! Check credentials and try again')
+		exit()
+	else:
+		session = json.loads(response.text)['session']
+		headers = {'X-ArchivesSpace-Session':session, 'Content_Type':'application/json'}
+		print('Login successful!')
+		return baseURL, headers

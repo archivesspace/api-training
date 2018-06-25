@@ -1,13 +1,11 @@
 import requests, json, secrets, authenticate, runtime
-# since we're going to re-use the baseURL and headers variables, we'll import them here
-from authenticate import baseURL, headers
 
 # provide instructions
 print('This script is used to generate new digital objects within an ArchivesSpace collection for websites crawled in an Archive-It collection.  Please note: This is a "proof of concept" script, NOT completed work.  Do not use in production scenarios.')
 input('Press Enter to continue...')
 
 # This is where we connect to ArchivesSpace.  See authenticate.py
-authenticate.test_connection()
+baseURL, headers = authenticate.login()
 
 # archiveit_coll = raw_input('Enter the Archive-It collection number: ')
 archiveit_coll = '3181'

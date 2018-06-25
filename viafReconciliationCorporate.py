@@ -14,8 +14,9 @@ with open('organizations.csv', 'r', encoding='utf-8') as csvfile:
         name = str(row['name'])
         rowEdited = urllib.parse.quote(name.strip())
         url = baseURL+rowEdited+'%22+and+local.sources+%3D+%22lc%22&sortKeys=holdingscount&maximumRecords=1&httpAccept=application/rdf+json'
-        response = requests.get(url).content
-        # getting a response, but it's not being parsed correctly now that i have changed to python3.  need to investigate further.
+        # first need to treat the response as text since we get an xml resopnse (with json embedded inside)
+        response = requests.get(url).text
+        print(response)
         try:
             response = response[response.index('<recordData xsi:type="ns1:stringOrXmlFragment">')+47:response.index('</recordData>')].replace('&quot;','"')
             response = json.loads(response)

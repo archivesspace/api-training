@@ -1,13 +1,11 @@
 import json, requests, csv, authenticate, runtime
-# since we're going to re-use the baseURL and headers variables, we'll import them here
-from authenticate import baseURL, headers
 
 # print instructions
 print ('This script replaces existing fauxcodes with real barcodes (linked in a separate csv file) in ArchivesSpace.')
 input('Press Enter to connect to ArchivesSpace and post those barcodes...')
 
 # This is where we connect to ArchivesSpace.  See authenticate.py
-authenticate.test_connection()
+baseURL, headers = authenticate.login()
 
 # open csv and generate dict
 reader = csv.DictReader(open('barcodes.csv'))
