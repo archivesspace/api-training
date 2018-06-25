@@ -14,9 +14,11 @@ csv = csv.DictReader(open(targetFile))
 orgList = []
 for row in csv:
     orgRecord = {}
-    orgRecord['names'] = [{'primary_name': row['result'], 'sort_name': row['result'], 'source': 'viaf', 'authority_id': row['viaf']}]
+    # changed this since ASpace doesn't come with 'viaf' as an option for source of the box.
+    source =  'naf' if row.get('lc') is not None else 'local'
+    orgRecord['names'] = [{'primary_name': row['result'], 'sort_name': row['result'], 'source': source, 'authority_id': row['lc']}]
     orgRecord = json.dumps(orgRecord)
     post = requests.post(baseURL + '/agents/corporate_entities', headers=headers, data=orgRecord).json()
-    print(post)
+    print(post, '\n')
 
 print("Check out your instance of ArchivesSpace to see what's new.")
