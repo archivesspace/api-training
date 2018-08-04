@@ -14,7 +14,7 @@ with open('organizations.csv', 'r', encoding='utf-8') as csvfile:
         name = str(row['name'])
         rowEdited = urllib.parse.quote(name.strip())
         url = baseURL+rowEdited+'%22+and+local.sources+%3D+%22lc%22&sortKeys=holdingscount&maximumRecords=1&httpAccept=application/rdf+json'
-        # first need to treat the response as text since we get an xml resopnse (with json embedded inside)
+        # first need to treat the response as text since we get an xml response (with json embedded inside)
         response = requests.get(url).text
         print(response)
         try:

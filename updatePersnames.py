@@ -1,4 +1,4 @@
-import requests, csv, json, urllib, time, authenticate
+import requests, csv, json, urllib.parse, time, authenticate
 
 viafURL = 'http://viaf.org/viaf/search?query=local.personalNames+%3D+%22'
 
@@ -29,7 +29,7 @@ for person in ASoutput['results']:
     except:
         dates = ''
     searchName = primary_name + ', ' + secondary_name + ', ' + dates
-    nameEdited = urllib.quote(searchName.strip())
+    nameEdited = urllib.parse.quote(searchName.strip())
     url = viafURL+nameEdited+'%22+and+local.sources+%3D+%22lc%22&sortKeys=holdingscount&maximumRecords=1&httpAccept=application/rdf+json'
 	# first need to treat the response as text since we get an xml resopnse (with json embedded inside)
     response = requests.get(url).text

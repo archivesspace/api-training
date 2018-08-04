@@ -26,6 +26,7 @@ input('Press Enter to continue...')
 resource_id = input('Enter resource ID (in this case, you should enter 1): ')
 
 # search for top_containers linked to entered resource id
+# i believe there's a new end point that will make this part even easier.  thanks, Lora!
 endpoint = '/repositories/2/top_containers/search?page=1&aq={"filter_term":{"field":"collection_uri_u_sstr", "value":"/repositories/2/resources/ + resource_id", "jsonmodel_type":"field_query"}}'
 output = requests.get(baseURL + endpoint, headers=headers).json()
 
