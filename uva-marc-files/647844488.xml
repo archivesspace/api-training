@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cpc a2200000Ma 4500</leader>
+    <controlfield tag="001">647844488</controlfield>
+    <controlfield tag="008">931221i19691993vau                 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Casey, John,</subfield>
+      <subfield code="d">1939-</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Papers of John Casey,</subfield>
+      <subfield code="f">1969-1993.</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="246">
+      <subfield code="a">John Casey papers</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">210 (approximately)</subfield>
+      <subfield code="f">items.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Papers of John Casey contain a typescripts of "Spartina", "Lapses," and two short stories; page proof of "Testimony and Demeanor"; articles and book reviews; course evaluations; interviews including one by Nancy Bunge; works submitted to the Henry Hoyns Fellowship committee; short stories by students; typescripts of Ann Beattie's "Leaving Home" and Marianne Wiggins's "Do you need a sandwich?"; clippings and miscellaneous items including a photograph of the 1993 American Academy of Arts and Letters ceremonial.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Correspondence contains letters from other authors and family members. Topics include "Creative Righters" at the Staunton (Va.) prison; a phrase spoken by an admirer of "the sotweed factor"; a biography of John Cheever; the current literary work of friends and former students; the National Book Award and the Mildred and Harold Strauss Living, Sewanee and other writing conferences; and family news.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Other authors mentioned, generally briefly, include Rebecca Brown, Pearl Buck, James A. McPherson, Tod A. Marder, Breece D'J Pancake, Mary Ryan, Mary Lee Settle, and Eudora Welty.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Correspondents include John Barth, Vance N. Bourjaily, Frederic Bradlee, Rita Mae Brown, Susan Brownell, Mary Carter, Amy Cunningham, Scott Donaldson, Maureen Howard, David Huddle, Richard Jones, Alexandra Kuczynski, Janet Lembke, Eugene McCarthy, Brenda K. Marshall, Lawrence C. Melton, Reid Mitchell, Jeff Pearson, Jonathan Penner, Wyatt Prunty, Mary Ryan, Jan C. Shapin, Jonathan R. Smith, Alexander Stille, Alexander Theroux, Amanda Vaill, Marianne Wiggins, Tobias Wolff, and Lewis J. Zeldman.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Brown, Rebecca.</subfield>
+      <subfield code="t">Haunted house.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Buck, Pearl S.</subfield>
+      <subfield code="q">(Pearl Sydenstricker),</subfield>
+      <subfield code="d">1892-1973.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Cheever, John.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">McPherson, James Alan,</subfield>
+      <subfield code="d">1943-2016.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Marder, Tod A.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">Mildred and Harold Strauss Living.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Pancake, Breece D'J,</subfield>
+      <subfield code="d">-1979.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Settle, Mary Lee.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">Sewanee Writers' Conference.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">University of Virginia.</subfield>
+      <subfield code="b">Department of English.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">University of Virginia</subfield>
+      <subfield code="x">Faculty.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">University of Virginia</subfield>
+      <subfield code="x">Funds and scholarships.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Welty, Eudora,</subfield>
+      <subfield code="d">1909-2001.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Buck, Pearl S.</subfield>
+      <subfield code="q">(Pearl Sydenstricker),</subfield>
+      <subfield code="d">1892-1973.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00032345</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Cheever, John.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00028512</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">McPherson, James Alan,</subfield>
+      <subfield code="d">1943-2016.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00184104</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Pancake, Breece D'J,</subfield>
+      <subfield code="d">1952-1979.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01898871</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Settle, Mary Lee.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00045424</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Welty, Eudora,</subfield>
+      <subfield code="d">1909-2001.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00033436</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="7" tag="610">
+      <subfield code="a">University of Virginia.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00532694</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="7" tag="610">
+      <subfield code="a">University of Virginia.</subfield>
+      <subfield code="b">Department of English.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01854908</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Authors</subfield>
+      <subfield code="x">Conferences and conventions.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Awards.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Creative writing (Higher education)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Literary prizes.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Prisoners as authors</subfield>
+      <subfield code="z">Virginia.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Awards.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00824442</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Creative writing (Higher education)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00882513</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Literary prizes.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00999945</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Prisoners as authors.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01077222</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Scholarships.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01432095</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Universities and colleges</subfield>
+      <subfield code="x">Faculty.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01161748</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Virginia.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204597</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Clippings.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Interviews.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Letters (Correspondence)</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Manuscripts for publication.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Photographs.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Proofs.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Barth, John,</subfield>
+      <subfield code="d">1930-</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Bourjaily, Vance Nye,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Bradlee, Frederic,</subfield>
+      <subfield code="d">1920-</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Brown, Rita Mae,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Brownell, Susan,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Bunge, Nancy L.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Carter, Mary,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Cunningham, Amy,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Donaldson, Scott,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Howard, Maureen,</subfield>
+      <subfield code="d">1930-</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Huddle, David,</subfield>
+      <subfield code="d">1942-</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Jones, Richard,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Kuczynski, Alexandra,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Lembke, Janet,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Marshall, Brenda K.,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">McCarthy, Eugene J.,</subfield>
+      <subfield code="d">1916-2005,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Melton, Lawrence C.,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Mitchell, Reid,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Pearson, Jeff,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Penner, Jonathan,</subfield>
+      <subfield code="d">1940-</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Prunty, Wyatt,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Ryan, Mary,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Shapin, Jan C.,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Smith, Jonathan Richardson,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Stille, Alexander,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Theroux, Alexander,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Vaill, Amanda,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Wiggins, Marianne,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Wolff, Tobias,</subfield>
+      <subfield code="d">1945-</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Zeldman, Lewis Jeffrey,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Beattie, Ann.</subfield>
+      <subfield code="t">Leaving home.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Casey, John,</subfield>
+      <subfield code="d">1939-</subfield>
+      <subfield code="t">Spartina.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Casey, John,</subfield>
+      <subfield code="d">1939-</subfield>
+      <subfield code="t">Testimony and demeanor.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Wiggins, Marianne.</subfield>
+      <subfield code="t">Can you smell my sandwich?</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">GUIDE TO THE COLLECTION AVAILABLE ONLINE:</subfield>
+      <subfield code="u">http://ead.lib.virginia.edu/vivaead/published/uva-sc/vivadoc.pl?file=viu01140.xml</subfield>
+    </datafield>
+  </record>

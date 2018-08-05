@@ -1,4 +1,4 @@
-import requests, csv, json, urllib.parse, time, authenticate
+import requests, csv, json, urllib.parse, runtime, authenticate
 
 viafURL = 'http://viaf.org/viaf/search?query=local.personalNames+%3D+%22'
 

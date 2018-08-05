@@ -1,4 +1,7 @@
 
 *.pyc
-
+supersecrets.py
+postMARCtoArchivesSpace.py
+delete.log
+/marc-files
 .DS_Store
