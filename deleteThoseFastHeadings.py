@@ -17,8 +17,6 @@ def search_and_destroy(baseURL, headers, query):
         for result in search_results['results']:
             record_uri = result['id']
             json = result['json']
-            #uh oh.  requests.delete not working on the LYRASIS installs (a 400 status is returned). is something else needed in the headers?
-            #the next line works fine when running a local instal of 2.4.1
             delete_response = requests.delete(baseURL + record_uri, headers=headers).json()
             print(delete_response)
             logging.info('%s successfully deleted', record_uri)
