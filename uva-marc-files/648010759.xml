@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cacaa2200000Ma 4500</leader>
+    <controlfield tag="001">648010759</controlfield>
+    <controlfield tag="008">100715i18292007xxu           000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Papers of Anne Spencer and the Spencer family,</subfield>
+      <subfield code="f">1829, 1864-2007.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">4175</subfield>
+      <subfield code="f">items.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">Series I: Correspondence. -- Series II: Photographs. -- Series III: Financial and Legal Papers and Volumes. -- Series IV: Topical Files. -- Series V: Manuscripts.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">The collection contains manuscript poems, ideas for poems, and articles by Spencer, including an autobiographical piece, 1956, sent to Lee Greene, typescript copies of some of her poems by Greene, and articles possibly written for a column in the Pittsburgh Courier, but never published. Prose manuscripts include "Bastion at Newark," "Chattel slavery or why I dislike Booker T," "Comments about herself spoken to Ben W. Fuson," "Dear children," "In the thicket" [regarding a short story by James Weldon Johnson], "LeRoi meets Lincoln," and "Virginia as Narcissus." Poetry manuscripts include "Any wife to any husband," "Ascetic," "At the carnival," "Before the feast of Shushan," "Black man o' mine," "Creed," "Dunbar," "Epitome," "For E.A.S.," "Failure," "For Jim, Easter Eve" [also titled "To James Weldon Johnson Easter Eve (1938-1948)]," "Grapes: Still-Life," "He said," "I have a friend," "Innocence," "Lady, lady," "Lemming: O Sweden," "Letter to my sister," "Liability," "Lines to a nasturtium," "Life-long, poor Browning," "Luther P. Jackson," "1975," "Neighbors," "Po' little lib," "Questing," "Requiem," "Rime for the Christmas baby," "The Sévignés," "Substitution," "Terrence, Terrence," "Translation," "White things," and "The wife-woman." There are also drafts and fragments of unfinished poems she constantly revised particularly "Big ditch and the river," "A dream of John Brown: on his return trip home."</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Themes and topics in untitled manuscripts and fragments include books and literature; family; African Americans, slavery, segregation, and civil rights; gardening and nature; historical and contemporary events and figures; politics and government particularly in Virginia; and religion.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Correspondence of Anne Spencer is chiefly with and about family, friends fellow poets and anthologizers. Of interest are letters from Sterling A. Brown, Countee Cullen, Victor Daly, Arthur P. Davis, W.E.B. du Bois, Helen G. Edmonds, Murrell Edmunds, Ben Fuson, J. Lee Greene, Langston Hughes, Altona Trent Johns, Georgia Douglas Johnson, Grace Johnson, James Weldon Johnson, Charles S. Johnson, Alain LeRoy Locke, Harry Meacham, H.L. Mencken (copy), Amaza Meredith, Clarence Muse, Francis Coleman Rosenberger, Frank Silvera, Idella Purnell [Stone], Howard Thurman, and Carl Van Vechten, concerning her poetry and their own work. There are also letters to Andres Burris and to Cleveland Amory re Ellen Glasgow, James Branch Cabell and racism.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Topics of interest in the correspondence include Langston Hughes, Adam Clayton Powell, Claude McKay, and William Raspberry, Jim Crow laws and segregation, and the Spencer family. There are many brief comments on people in the news and current events including the Democratic Presidential Convention of 1948 and the Republican Convention of 1952.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">There are numerous photographs of family and friends including Guy Bluford, Celinda Wright Humbles, Joe Louis, Amaza Meredith, Clarence Muse, and Ulysses S. Grant Patterson, as well as a Tuskegee Airmen convention and the faculty of the Virginia Theological Seminary.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Financial and legal papers chiefly concern the Lynchburg, Va., property management business, tax business and chicken business of Edward Spencer. Many of his business ledgers were later reused by his widow for jotting down her poetry ideas. Contains an 1829 New Hampshire deed, an 1863 will, and the wills of Anne and her husband.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Miscellaneous material includes material pertinent to an Anne Spencer Poetry Contest, the Friends of the Anne Spencer Memorial Foundation and the Virginia Landmarks Register inclusion for the Anne Spencer House as well as facsimiles of historic African American and historic broadsides; invitations; clippings; programs; a few papers concerning Chauncey Spencer, a Tuskeegee Airman, including a blueprint for a hangar at Dothan, Ala.; mimeograph copies of poetry by Gerald William Barrax; and a rough draft of "Searching for Anne Spencer" by Pat Doyle.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">The papers also contain an audiocassette "Remarks to the Fusons by poet Anne Spencer, 1969; and a mini-cassette labelled "Chauncey 4-14-99."</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Baraka, Amiri,</subfield>
+      <subfield code="d">1934-2014</subfield>
+      <subfield code="v">Poetry.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Bluford, Guion Stewart,</subfield>
+      <subfield code="d">1942-</subfield>
+      <subfield code="v">Photographs.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Brown, John,</subfield>
+      <subfield code="d">1800-1859</subfield>
+      <subfield code="v">Poetry.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Browning, Robert,</subfield>
+      <subfield code="d">1812-1889</subfield>
+      <subfield code="v">Poetry.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Cabell, James Branch,</subfield>
+      <subfield code="d">1879-1958.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Dunbar, Paul Laurence,</subfield>
+      <subfield code="d">1872-1906</subfield>
+      <subfield code="v">Poetry.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Glasgow, Ellen Anderson Gholson,</subfield>
+      <subfield code="d">1873-1945.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Greene, J. Lee,</subfield>
+      <subfield code="d">1944-2017.</subfield>
+      <subfield code="t">Time's unfading garden.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Hughes, Langston,</subfield>
+      <subfield code="d">1902-1967.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Humbles, Celinda Wright,</subfield>
+      <subfield code="d">1887-1976</subfield>
+      <subfield code="v">Photographs.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Jackson, Luther Porter,</subfield>
+      <subfield code="d">1892-1950</subfield>
+      <subfield code="v">Poetry.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Johnson, James Weldon,</subfield>
+      <subfield code="d">1871-1938</subfield>
+      <subfield code="v">Poetry.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Lincoln, Abraham,</subfield>
+      <subfield code="d">1809-1865</subfield>
+      <subfield code="v">Poetry.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Louis, Joe,</subfield>
+      <subfield code="d">1914-1981</subfield>
+      <subfield code="v">Photographs.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">MacSwiney, Terrence,</subfield>
+      <subfield code="d">1879-1920</subfield>
+      <subfield code="v">Poetry.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">McKay, Claude,</subfield>
+      <subfield code="d">1890-1948.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Meredith, Amaza Lee,</subfield>
+      <subfield code="d">1895-1984</subfield>
+      <subfield code="v">Photographs.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Muse, Clarence</subfield>
+      <subfield code="v">Photographs.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Patterson, Ulysses S. Grant,</subfield>
+      <subfield code="d">1867-1916</subfield>
+      <subfield code="v">Photographs.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Powell, Adam Clayton,</subfield>
+      <subfield code="c">Jr.,</subfield>
+      <subfield code="d">1908-1972.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Raspberry, William.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975</subfield>
+      <subfield code="v">Photographs.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Spencer, Chauncey E.</subfield>
+      <subfield code="q">(Chauncey Edward),</subfield>
+      <subfield code="d">1906-2002.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Spencer, Edward Alexander,</subfield>
+      <subfield code="d">1876-1964.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Spencer, Edward Alexander,</subfield>
+      <subfield code="d">1876-1964</subfield>
+      <subfield code="v">Photographs.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Washington, Booker T.,</subfield>
+      <subfield code="d">1856-1915.</subfield>
+    </datafield>
+    <datafield ind1="3" ind2="0" tag="600">
+      <subfield code="a">Spencer family.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="610">
+      <subfield code="a">United States.</subfield>
+      <subfield code="b">Army Air Forces.</subfield>
+      <subfield code="b">Fighter Squadron, 99th</subfield>
+      <subfield code="v">Photographs.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">Anne Spencer House and Garden Museum (Lynchburg, Va.)</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">Friends of the Anne Spencer Memorial Foundation.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">Dunbar High School (Lynchburg, Va.)</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">Virginia Seminary and College (Lynchburg, Va.).</subfield>
+      <subfield code="b">Faculty</subfield>
+      <subfield code="v">Photographs.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">African American businesspeople</subfield>
+      <subfield code="z">Virginia</subfield>
+      <subfield code="z">Lynchburg.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">African American poets</subfield>
+      <subfield code="z">Virginia</subfield>
+      <subfield code="z">Lynchburg.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">African American women poets</subfield>
+      <subfield code="z">Virginia</subfield>
+      <subfield code="z">Lynchburg.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="x">Segregation.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="x">Social conditions</subfield>
+      <subfield code="y">To 1964.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="x">Social conditions</subfield>
+      <subfield code="y">1964-1975.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="z">Virginia</subfield>
+      <subfield code="z">Lynchburg.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Hangars</subfield>
+      <subfield code="v">Designs and plans.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Harlem Renaissance.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Rental housing</subfield>
+      <subfield code="z">Virginia</subfield>
+      <subfield code="z">Lynchburg.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">Lynchburg (Va.)</subfield>
+      <subfield code="x">History.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Washington, Booker T.,</subfield>
+      <subfield code="d">1856-1915</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00037174</subfield>
+    </datafield>
+    <datafield ind1="3" ind2="7" tag="600">
+      <subfield code="a">Spencer family.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00218832</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Spencer, Chauncey E.</subfield>
+      <subfield code="q">(Chauncey Edward),</subfield>
+      <subfield code="d">1906-2002</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01960695</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00415676</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Raspberry, William.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00248463</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Powell, Adam Clayton,</subfield>
+      <subfield code="c">Jr.,</subfield>
+      <subfield code="d">1908-1972</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01898943</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Muse, Clarence.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00099251</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">McKay, Claude,</subfield>
+      <subfield code="d">1890-1948</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00036250</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Louis, Joe,</subfield>
+      <subfield code="d">1914-1981</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00050916</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Lincoln, Abraham,</subfield>
+      <subfield code="d">1809-1865</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00030184</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Johnson, James Weldon,</subfield>
+      <subfield code="d">1871-1938</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00045815</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Jackson, Luther Porter,</subfield>
+      <subfield code="d">1892-1950</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00270757</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Hughes, Langston,</subfield>
+      <subfield code="d">1902-1967</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00049863</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Glasgow, Ellen Anderson Gholson,</subfield>
+      <subfield code="d">1873-1945</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00041878</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Dunbar, Paul Laurence,</subfield>
+      <subfield code="d">1872-1906</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00029843</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Cabell, James Branch,</subfield>
+      <subfield code="d">1879-1958</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00052768</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Browning, Robert,</subfield>
+      <subfield code="d">1812-1889</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00034203</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Brown, John,</subfield>
+      <subfield code="d">1800-1859</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00034505</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Bluford, Guion Stewart,</subfield>
+      <subfield code="d">1942-</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00125435</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Baraka, Amiri,</subfield>
+      <subfield code="d">1934-2014</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01774906</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="610">
+      <subfield code="a">United States.</subfield>
+      <subfield code="b">Army Air Forces.</subfield>
+      <subfield code="b">Fighter Squadron, 99th.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00526705</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Rental housing.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01094701</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Harlem Renaissance.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00951467</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Hangars.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00951057</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="x">Social conditions.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00799698</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="x">Segregation.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00799695</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">African Americans.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00799558</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">African American women poets.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00799517</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">African American poets.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00799304</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">African American businesspeople.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00799064</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Virginia</subfield>
+      <subfield code="z">Lynchburg.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01207740</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Poetry.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423828</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Photographs.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423689</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">History.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411628</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Architectural drawings.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01986246</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Business records.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Clippings.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Deeds</subfield>
+      <subfield code="z">New Hampshire.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Letters (Correspondence)</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Manuscripts for publication.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Photographs.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Telegrams.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Wills</subfield>
+      <subfield code="z">Virginia.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Amory, Cleveland,</subfield>
+      <subfield code="e">recipient.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Barrax, Gerald W.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Brown, Sterling A.,</subfield>
+      <subfield code="d">1901-1989,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Burris, Andrew M.</subfield>
+      <subfield code="q">(Andrew Marion),</subfield>
+      <subfield code="d">1898-</subfield>
+      <subfield code="e">recipient.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Cullen, Countee,</subfield>
+      <subfield code="d">1903-1946,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Daly, Victor,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Davis, Arthur Paul,</subfield>
+      <subfield code="d">1904-1996,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Du Bois, W. E. B.</subfield>
+      <subfield code="q">(William Edward Burghardt),</subfield>
+      <subfield code="d">1868-1963,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Edmonds, Helen G.</subfield>
+      <subfield code="q">(Helen Grey),</subfield>
+      <subfield code="d">1911-1995,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Edmunds, Murrell,</subfield>
+      <subfield code="d">1898-1981,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Fuson, Benjamin Willis,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Greene, J. Lee,</subfield>
+      <subfield code="d">1944-2017,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Hughes, Langston,</subfield>
+      <subfield code="d">1902-1967,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Johns, Altona Trent,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Johnson, Charles Spurgeon,</subfield>
+      <subfield code="d">1893-1956,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Johnson, Georgia Douglas,</subfield>
+      <subfield code="d">1886-1966,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Johnson, Grace Nail,</subfield>
+      <subfield code="d">1885-1976,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Johnson, James Weldon,</subfield>
+      <subfield code="d">1871-1938,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Locke, Alain,</subfield>
+      <subfield code="d">1885-1954,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Meacham, Harry M.</subfield>
+      <subfield code="q">(Harry Monroe),</subfield>
+      <subfield code="d">1901-1975,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Mencken, H. L.</subfield>
+      <subfield code="q">(Henry Louis),</subfield>
+      <subfield code="d">1880-1956,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Meredith, Amaza Lee,</subfield>
+      <subfield code="d">1895-1984,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Muse, Clarence,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Rosenberger, Francis Coleman,</subfield>
+      <subfield code="d">1915-</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Silvera, Frank,</subfield>
+      <subfield code="d">1914-1970,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Spencer, Chauncey,</subfield>
+      <subfield code="d">1906-2002,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Stone, Idella Purnell,</subfield>
+      <subfield code="d">1901-</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Thurman, Howard,</subfield>
+      <subfield code="d">1900-1981,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Van Vechten, Carl,</subfield>
+      <subfield code="d">1880-1964,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">White, Walter,</subfield>
+      <subfield code="d">1893-1955,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Doyle, Pat.</subfield>
+      <subfield code="t">Searching for Anne Spencer.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Rivers, Francis.</subfield>
+      <subfield code="t">Racial harmony as a supreme challenge to the post-war generation.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">1975.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Any wife to any husband.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Ascetic.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">At the carnival.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Bastion at Newark.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Before the feast of Sushan.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Big ditch and the river.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Black man O' Mine.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Chattel slavaery or why I dislike Booker T.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Comments about herself, spoken to Ben W. Fuson.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Creed.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Dear children.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Dream of John Brown: on his return trip home.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Dunbar.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Epitome.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Failure.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">For E.A.S.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">For Jim, Easter Eve.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Grapes: Still-life.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">He said.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">I have a friend.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">In the thicket.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Innocence.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Lady, lady.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Lemming: O Sweden.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Letter to my sister.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Liability.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Life-long, poor Browning.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">LeRoi meets Lincoln.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Lines to a nasturstium.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Luther P. Jackson.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Neighbors.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Po' little lib.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Questing.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Requiem.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Rime for the Christmas baby.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Sévignés.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Substitution.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Terrence, Terrence.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Translation.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Virginia as Narcissus.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">White things.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Spencer, Anne,</subfield>
+      <subfield code="d">1882-1975.</subfield>
+      <subfield code="t">Wife-woman.</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">GUIDE TO THE COLLECTION AVAILABLE ONLINE:</subfield>
+      <subfield code="u">http://ead.lib.virginia.edu/vivaead/published/uva-sc/vivadoc.pl?file=viu04082.xml</subfield>
+    </datafield>
+  </record>

@@ -1,4 +1,9 @@
 
 *.pyc
-
+supersecrets.py
+delete.log
+/marc-files
+proPublicaRecord.json
+viafCorporateResults.csv
+dos.just_posted.csv
 .DS_Store

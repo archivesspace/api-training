@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cpcaa2200000Ia 4500</leader>
+    <controlfield tag="001">51024910</controlfield>
+    <controlfield tag="008">021118k19241994xx                  eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Byrd, Harry F.,</subfield>
+      <subfield code="c">Jr.</subfield>
+      <subfield code="q">(Harry Flood),</subfield>
+      <subfield code="d">1914-2013.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Papers of Harry Flood Byrd,</subfield>
+      <subfield code="f">1813-1994</subfield>
+      <subfield code="g">(bulk 1936-1994).</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="246">
+      <subfield code="a">Harry F. Byrd, Jr., papers</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">20,000 (ca.)</subfield>
+      <subfield code="f">items.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">The papers of Harry F. Byrd consist of correspondence, financial records; speeches; topical files; photographs; newsclippings; awards; plaques; certificates; political cartoons; and index cards.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">The papers contain files concerning the political campaigns of Harry F. Byrd, Jr., for the Virginia State Legislature, 1947, 1959, 1963, and the United States Senate, 1966, 1970 and 1976; working files from his terms in the Virginia and U.S. Senate; personal files; files pertaining to the Winchester Star and the Byrd apple orchards; alphabetical files on political figures and Virginia politicians; files on legislation considered in the Virginia Senate; and personal files of photographs and articles written by Harry F. Byrd, Jr., as a newspaper editor on trips to Europe during the Cold War.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Papers of Harry F. Byrd, Sr., are scattered through the collection and include bank records, estate papers, stock correspondence, photographs, speeches and campaign files for U.S. Senate races in 1946 and 1952 including a scrapbook regarding his primary campaign against Francis Pickens Miller. There are also two notebooks, 1936, listing precinct workers and members of the Democratic committees of Virginia.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Topics of interest include education, the Gray Commission (Governor's Commission on Public Education), the Perrow Commission (School Policy Study Commission), control of local school boards, highways, industrial development, segregation, redistricting, the poll tax, the sales tax, the Outdoor Recreation Commission, the School Policy Study Commission, and Virginia's 350th Anniversary Commission.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Several cartoons are by Fred O. Seibel.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Correspondents include Watkins M. Abbitt, J. Lindsay Almond, Jr., John S. Battle, E.R. Combs, Ted Dalton, Colgate Darden, Mills Godwin, Albertis S. Harrison, Burr P. Harrison, A. Willis Robertson, Howar W. Smith, Thomas B. Stanley, Bill Tuck, and the Democratic committees of Clark County, Frederick County, Loudoun County, Shenandoah County, and Winchester, Va.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Byrd, Harry F.</subfield>
+      <subfield code="q">(Harry Flood),</subfield>
+      <subfield code="d">1887-1966.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="610">
+      <subfield code="a">United States.</subfield>
+      <subfield code="b">Congress.</subfield>
+      <subfield code="b">Senate.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="610">
+      <subfield code="a">Virginia.</subfield>
+      <subfield code="b">General Assembly.</subfield>
+      <subfield code="b">Senate.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">Democratic Party (Va.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Governors</subfield>
+      <subfield code="z">Virginia</subfield>
+      <subfield code="x">Election</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">20th century.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">Virginia</subfield>
+      <subfield code="x">Politics and government</subfield>
+      <subfield code="y">20th century.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Byrd, Harry F.</subfield>
+      <subfield code="q">(Harry Flood),</subfield>
+      <subfield code="d">1887-1966.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00095849</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="7" tag="610">
+      <subfield code="a">Democratic Party (Va.)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00558455</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="610">
+      <subfield code="a">United States.</subfield>
+      <subfield code="b">Congress.</subfield>
+      <subfield code="b">Senate.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00530422</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="610">
+      <subfield code="a">Virginia.</subfield>
+      <subfield code="b">General Assembly.</subfield>
+      <subfield code="b">Senate.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00535623</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Governors</subfield>
+      <subfield code="x">Election.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00945712</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Politics and government</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01919741</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Virginia.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204597</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">History.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411628</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Abbitt, Watkins Moorman,</subfield>
+      <subfield code="d">1908-1998,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Almond, J. Lindsay</subfield>
+      <subfield code="q">(James Lindsay),</subfield>
+      <subfield code="d">1898-1986,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Byrd, Harry F.</subfield>
+      <subfield code="q">(Harry Flood),</subfield>
+      <subfield code="d">1887-1966,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Byrd, Richard Evelyn,</subfield>
+      <subfield code="d">1888-1957,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Darden, Colgate W.</subfield>
+      <subfield code="q">(Colgate Whitehead),</subfield>
+      <subfield code="d">1897-1981,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Godwin, Mills E.</subfield>
+      <subfield code="q">(Mills Edwin),</subfield>
+      <subfield code="d">1914-1999,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Seibel, Fred O.</subfield>
+      <subfield code="q">(Fred Otto),</subfield>
+      <subfield code="d">1886-1969.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Byrd, Harry Flood,</subfield>
+      <subfield code="d">1914-</subfield>
+      <subfield code="t">Churchill I knew.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="700">
+      <subfield code="a">Byrd, Harry Flood,</subfield>
+      <subfield code="d">1914-</subfield>
+      <subfield code="t">Conventions I have known.</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">GUIDE TO THE COLLECTION  AVAILABLE ONLINE:</subfield>
+      <subfield code="u">http://ead.lib.virginia.edu/vivaead/published/uva-sc/vivadoc.pl?file=viu01944.xml</subfield>
+    </datafield>
+  </record>

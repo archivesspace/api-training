@@ -1,22 +1,22 @@
-import requests, csv, json, urllib, time
+import requests, csv, json, urllib, time, runtime
 from fuzzywuzzy import fuzz
 
-startTime = time.time()
-
 # print instructions
-print 'This script looks for a CSV named "organizations.csv" and then uses the VIAF "corporateNames" index to retrieve VIAF, Library of Congress, and International Standard Name Identifier (ISNI) URIs for each potential match. These results are written to a new file named "viafCorporateResults.csv." Credit for this script goes to our friend and colleague Eric Hanson.'
-raw_input('Press Enter to continue...')
+print ('This script looks for a CSV named "organizations.csv" and then uses the VIAF "corporateNames" index to retrieve VIAF, Library of Congress, and International Standard Name Identifier (ISNI) URIs for each potential match. These results are written to a new file named "viafCorporateResults.csv." Credit for this script goes to our friend and colleague Eric Hanson.')
+input('Press Enter to continue...')
 
 baseURL = 'http://viaf.org/viaf/search/viaf?query=local.corporateNames+%3D+%22'
-f=csv.writer(open('viafCorporateResults.csv', 'wb'))
+f=csv.writer(open('viafCorporateResults.csv', 'w'))
 f.writerow(['search']+['result']+['viaf']+['lc']+['isni']+['ratio']+['partialRatio']+['tokenSort']+['tokenSet']+['avg'])
-with open('organizations.csv') as csvfile:
+with open('organizations.csv', 'r', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         name = str(row['name'])
-        rowEdited = urllib.quote(name.strip())
+        rowEdited = urllib.parse.quote(name.strip())
         url = baseURL+rowEdited+'%22+and+local.sources+%3D+%22lc%22&sortKeys=holdingscount&maximumRecords=1&httpAccept=application/rdf+json'
-        response = requests.get(url).content
+        # first need to treat the response as text since we get an xml response (with json embedded inside)
+        response = requests.get(url).text
+        print(response)
         try:
             response = response[response.index('<recordData xsi:type="ns1:stringOrXmlFragment">')+47:response.index('</recordData>')].replace('&quot;','"')
             response = json.loads(response)
@@ -47,8 +47,4 @@ with open('organizations.csv') as csvfile:
             isni = ''
         f.writerow([name.strip()]+[label]+[viafid]+[lc]+[isni]+[ratio]+[partialRatio]+[tokenSort]+[tokenSet]+[avg])
 
-# show script runtime
-elapsedTime = time.time() - startTime
-m, s = divmod(elapsedTime, 60)
-h, m = divmod(m, 60)
-print 'Total script run time: ', '%d:%02d:%02d' % (h, m, s)
+print("Checkout the new file that's named viafCorporateResults.csv")

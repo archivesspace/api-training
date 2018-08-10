@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cpcaa2200000Ma 4500</leader>
+    <controlfield tag="001">647845821</controlfield>
+    <controlfield tag="008">940502k19381971vau                 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Boyle, Sarah-Patton,</subfield>
+      <subfield code="d">1906-</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Papers of Sarah-Patton Boyle</subfield>
+      <subfield code="f">1938-1988</subfield>
+      <subfield code="g">(bulk 1944-1975).</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="246">
+      <subfield code="a">Sarah-Patton Boyle papers</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">500</subfield>
+      <subfield code="f">items.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">The collection contains correspondence and miscellaneous papers of the civil rights activist and author.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Correspondence discusses Boyle's book "The desegregated heart," integration, the South, Southern liberalism, the civil rights movement, race relations, religion, leaders and organizations particularly Martin Luther King, Jr., the Southern Regional Council, and the Southern Christian Leadership Conference.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Correspondence files also include articles, speeches, clippings, reviews, Christmas cards, issues of the SCLC newsletter, issues of Virginia verse (U. Va. student poetry magazine) and miscellaneous printed material.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Correspondents include James Baldwin, Pearl Buck, James McBride Dabbs, Joseph Chamberlain Furnas, Harry L. Golden, Lyndon B. Johnson (form letter), Martin Luther King, Jr., Thurgood Marshall, Pauli Murray, Alan Paton, Thomas F. Pettigrew, James A. Pike, Lilian E. Smith, Jim and Wilma Dykeman Stokely, Carl Van Vechten, Chad Walsh, J. Waties Waring and Roy Wilkins.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">A folder of congratulations on "Desegregated hearts" contains single, brief letters from Walter Russell Bowie, Will D. Campbell, P.D. East, Paul Green, and David C. Wilson.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Other correspondents represented by single letters include Hodding Carter, Kenneth B. Clark, Grace Halsell, Clarence Jordan, Benjamin Muse, and Laurens van der Post.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Miscellaneous correspondence, all copies, includes letters containing personal reflections to P.D. East, and to and from T.J. Sellers.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Miscellaneous items of interest include a "doodling" sketch of Boyle by James Baldwin; a speech on Ethel Waters by Carl Van Vechten; a pennant from the Prayer Pilgrimage for Freedom, 1957; printed material from the March on Washington for Jobs and Freedom, 1963; honorary certificates; photographs of Boyle on the Betty Furness program and with civil rights leaders; a Patton genealogy and brief articles by Boyle.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Boyle, Sarah-Patton,</subfield>
+      <subfield code="d">1906-</subfield>
+      <subfield code="t">Desegregated heart.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Waters, Ethel,</subfield>
+      <subfield code="d">1896-1977.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">Southern Regional Council.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Waters, Ethel,</subfield>
+      <subfield code="d">1896-1977.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00155432</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="7" tag="610">
+      <subfield code="a">Southern Regional Council.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00542793</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="x">Civil rights.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="x">Segregation.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="z">Southern States.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">Charlottesville (Va.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Liberalism</subfield>
+      <subfield code="z">Southern States.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Prayer pilgrimage for Freedom, Washington, D.C., 1957.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Race discrimination.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Race relations.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Segregation</subfield>
+      <subfield code="x">Religious aspects.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">Southern States</subfield>
+      <subfield code="x">Race relations.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">Southern States</subfield>
+      <subfield code="x">Social conditions</subfield>
+      <subfield code="y">1945-</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">African Americans.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00799558</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="x">Civil rights.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00799575</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="x">Segregation.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00799695</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Liberalism.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00997183</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Race discrimination.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01086465</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Race relations.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01086509</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Segregation</subfield>
+      <subfield code="x">Religious aspects.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01111214</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Social conditions.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01919811</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Southern States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01244550</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Virginia</subfield>
+      <subfield code="z">Charlottesville.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204493</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Articles.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Christmas cards.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Clippings.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Letters.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Newsletters.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Pennants.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Pamphlets.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Photographs.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Speeches.</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Baldwin, James,</subfield>
+      <subfield code="d">1924-1987,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Bowie, Walter Russell,</subfield>
+      <subfield code="d">1882-1969,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Buck, Pearl S.</subfield>
+      <subfield code="q">(Pearl Sydenstricker),</subfield>
+      <subfield code="d">1892-1973,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Campbell, Will D.,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Carter, Hodding,</subfield>
+      <subfield code="d">1907-1972,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Clark, Kenneth Bancroft,</subfield>
+      <subfield code="d">1914-2005,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Dabbs, James McBride,</subfield>
+      <subfield code="d">1896-1970,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Dykeman, Wilma,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">East, Percy Dale,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Furnas, J. C.</subfield>
+      <subfield code="q">(Joseph Chamberlain),</subfield>
+      <subfield code="d">1905-2001,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Golden, Harry,</subfield>
+      <subfield code="d">1902-1981,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Green, Paul,</subfield>
+      <subfield code="d">1894-1981,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Halsell, Grace,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Johnson, Lyndon B.</subfield>
+      <subfield code="q">(Lyndon Baines),</subfield>
+      <subfield code="d">1908-1973,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Jordan, Clarence,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">King, Coretta Scott,</subfield>
+      <subfield code="d">1927-2006,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">King, Martin Luther,</subfield>
+      <subfield code="c">Jr.,</subfield>
+      <subfield code="d">1929-1968,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Marshall, Thurgood,</subfield>
+      <subfield code="d">1908-1993,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Murray, Pauli,</subfield>
+      <subfield code="d">1910-1985,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Muse, Benjamin,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Paton, Alan,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Pettigrew, Thomas F.,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Pike, James A.</subfield>
+      <subfield code="q">(James Albert),</subfield>
+      <subfield code="d">1913-1969,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Sellers, T. J.,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Smith, Lillian</subfield>
+      <subfield code="q">(Lillian Eugenia),</subfield>
+      <subfield code="d">1897-1966,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Stokely, Jim,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Van der Post, Laurens,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Van Vechten, Carl,</subfield>
+      <subfield code="d">1880-1964,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Walsh, Chad,</subfield>
+      <subfield code="d">1914-1991,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Waring, Julius Waties,</subfield>
+      <subfield code="d">1880-1968,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Wilkins, Roy,</subfield>
+      <subfield code="d">1901-1981,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Wilson, David C.</subfield>
+      <subfield code="q">(David Cole),</subfield>
+      <subfield code="d">1892-</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Southern Christian Leadership Conference,</subfield>
+      <subfield code="e">correspondent.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="740">
+      <subfield code="a">SCLC Newsletter.</subfield>
+    </datafield>
+    <datafield ind1="7" ind2="2" tag="856">
+      <subfield code="z">GUIDE TO THE COLLECTION AVAILABLE ONLINE:</subfield>
+      <subfield code="u">http://ead.lib.virginia.edu/vivaead/published/uva-sc/vivadoc.pl?file=viu01051.xml</subfield>
+      <subfield code="2">http</subfield>
+    </datafield>
+  </record>
