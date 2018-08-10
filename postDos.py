@@ -4,7 +4,7 @@ import json, requests, csv, os, authenticate, runtime
 baseURL, headers = authenticate.login()
 
 # User supplied filename
-do_csv = input('Enter csv filename: ')
+do_csv = input('Type in the csv file name (in this case, type in "dos.csv" without quotes): ')
 base_file_name = os.path.splitext(do_csv)[0]
 # Open csv, create new csv
 csv_dict = csv.DictReader(open(do_csv, 'r', encoding='utf-8'))
